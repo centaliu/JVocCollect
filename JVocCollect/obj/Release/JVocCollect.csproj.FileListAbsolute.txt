@@ -1,0 +1,17 @@
+D:\Projects\JVocCollect\JVocCollect\bin\Release\JVocCollect.exe.config
+D:\Projects\JVocCollect\JVocCollect\bin\Release\JVocCollect.exe
+D:\Projects\JVocCollect\JVocCollect\bin\Release\JVocCollect.pdb
+D:\Projects\JVocCollect\JVocCollect\obj\Release\JVocCollect.frmMain.resources
+D:\Projects\JVocCollect\JVocCollect\obj\Release\JVocCollect.Properties.Resources.resources
+D:\Projects\JVocCollect\JVocCollect\obj\Release\JVocCollect.csproj.GenerateResource.Cache
+D:\Projects\JVocCollect\JVocCollect\obj\Release\JVocCollect.exe
+D:\Projects\JVocCollect\JVocCollect\obj\Release\JVocCollect.pdb
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\bin\Release\JVocCollect.exe.config
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Release\JVocCollect.exe
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Release\JVocCollect.pdb
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\bin\Release\JVocCollect.exe
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\bin\Release\JVocCollect.pdb
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Release\JVocCollect.csprojResolveAssemblyReference.cache
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Release\JVocCollect.frmMain.resources
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Release\JVocCollect.Properties.Resources.resources
+D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Release\JVocCollect.csproj.GenerateResource.Cache
