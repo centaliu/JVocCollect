@@ -2,3 +2,4 @@
 this project is used to collect Japanese vocabularies for putting thme into the databast for App to read.
 test
 test
+agfin
