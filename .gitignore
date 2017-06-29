@@ -1,1 +1,6 @@
-JVocCollect.v12.suo
+*.suo
+*.exe
+*.pdb
+*.config
+*.manifest
+*.cache
