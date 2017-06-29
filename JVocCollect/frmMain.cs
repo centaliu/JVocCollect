@@ -27,7 +27,7 @@ namespace JVocCollect
 	public partial class frmMain : Form
 	{
 		private HtmlElement rootEle = null;
-		private string theURL = "TEST";
+		private string theURL = @"https://www.japanesepod101.com/japanese-dictionary/";//the URL of the English to Japanese dictionary
 
 		public frmMain()
 		{
@@ -92,7 +92,7 @@ namespace JVocCollect
 
 		private void frmMain_Load(object sender, EventArgs e)
 		{
-			IE.Navigate(@"https://www.japanesepod101.com/japanese-dictionary/");
+			IE.Navigate(theURL);
 		}
 	}
 }

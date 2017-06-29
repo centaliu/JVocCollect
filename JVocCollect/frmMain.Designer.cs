@@ -37,7 +37,7 @@
 			// 
 			// btnGet
 			// 
-			this.btnGet.Location = new System.Drawing.Point(1449, 75);
+			this.btnGet.Location = new System.Drawing.Point(1449, 38);
 			this.btnGet.Name = "btnGet";
 			this.btnGet.Size = new System.Drawing.Size(71, 27);
 			this.btnGet.TabIndex = 0;
@@ -63,7 +63,7 @@
 			// 
 			// txtOrder
 			// 
-			this.txtOrder.Location = new System.Drawing.Point(1489, 148);
+			this.txtOrder.Location = new System.Drawing.Point(1486, 12);
 			this.txtOrder.Name = "txtOrder";
 			this.txtOrder.Size = new System.Drawing.Size(34, 20);
 			this.txtOrder.TabIndex = 3;
@@ -72,7 +72,7 @@
 			// lblOrder
 			// 
 			this.lblOrder.AutoSize = true;
-			this.lblOrder.Location = new System.Drawing.Point(1449, 148);
+			this.lblOrder.Location = new System.Drawing.Point(1446, 12);
 			this.lblOrder.Name = "lblOrder";
 			this.lblOrder.Size = new System.Drawing.Size(34, 13);
 			this.lblOrder.TabIndex = 4;
