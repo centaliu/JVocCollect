@@ -20,6 +20,7 @@ using System.Diagnostics;
 //"JVocCollect.exe"=dword:00002711
 //====================================================================================================
 // 2017.06.23 version 1.0.0.0: initial version
+// 2017.06.29 add one more line
 
 namespace JVocCollect
 {
