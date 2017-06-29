@@ -37,7 +37,7 @@
 			// 
 			// btnGet
 			// 
-			this.btnGet.Location = new System.Drawing.Point(1452, 41);
+			this.btnGet.Location = new System.Drawing.Point(1449, 75);
 			this.btnGet.Name = "btnGet";
 			this.btnGet.Size = new System.Drawing.Size(71, 27);
 			this.btnGet.TabIndex = 0;
@@ -50,7 +50,7 @@
 			this.IE.Location = new System.Drawing.Point(0, 0);
 			this.IE.MinimumSize = new System.Drawing.Size(20, 20);
 			this.IE.Name = "IE";
-			this.IE.Size = new System.Drawing.Size(1443, 438);
+			this.IE.Size = new System.Drawing.Size(1432, 438);
 			this.IE.TabIndex = 1;
 			// 
 			// txtSql
