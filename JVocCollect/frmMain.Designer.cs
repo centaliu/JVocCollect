@@ -37,7 +37,7 @@
 			// 
 			// btnGet
 			// 
-			this.btnGet.Location = new System.Drawing.Point(980, 42);
+			this.btnGet.Location = new System.Drawing.Point(1452, 41);
 			this.btnGet.Name = "btnGet";
 			this.btnGet.Size = new System.Drawing.Size(71, 27);
 			this.btnGet.TabIndex = 0;
@@ -50,7 +50,7 @@
 			this.IE.Location = new System.Drawing.Point(0, 0);
 			this.IE.MinimumSize = new System.Drawing.Size(20, 20);
 			this.IE.Name = "IE";
-			this.IE.Size = new System.Drawing.Size(974, 438);
+			this.IE.Size = new System.Drawing.Size(1443, 438);
 			this.IE.TabIndex = 1;
 			// 
 			// txtSql
@@ -58,12 +58,12 @@
 			this.txtSql.Location = new System.Drawing.Point(0, 444);
 			this.txtSql.Multiline = true;
 			this.txtSql.Name = "txtSql";
-			this.txtSql.Size = new System.Drawing.Size(974, 246);
+			this.txtSql.Size = new System.Drawing.Size(1523, 246);
 			this.txtSql.TabIndex = 2;
 			// 
 			// txtOrder
 			// 
-			this.txtOrder.Location = new System.Drawing.Point(1016, 13);
+			this.txtOrder.Location = new System.Drawing.Point(1489, 15);
 			this.txtOrder.Name = "txtOrder";
 			this.txtOrder.Size = new System.Drawing.Size(34, 20);
 			this.txtOrder.TabIndex = 3;
@@ -72,7 +72,7 @@
 			// lblOrder
 			// 
 			this.lblOrder.AutoSize = true;
-			this.lblOrder.Location = new System.Drawing.Point(980, 15);
+			this.lblOrder.Location = new System.Drawing.Point(1449, 15);
 			this.lblOrder.Name = "lblOrder";
 			this.lblOrder.Size = new System.Drawing.Size(34, 13);
 			this.lblOrder.TabIndex = 4;
@@ -82,7 +82,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(1066, 690);
+			this.ClientSize = new System.Drawing.Size(1535, 690);
 			this.Controls.Add(this.lblOrder);
 			this.Controls.Add(this.txtOrder);
 			this.Controls.Add(this.txtSql);
