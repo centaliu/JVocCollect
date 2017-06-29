@@ -63,7 +63,7 @@
 			// 
 			// txtOrder
 			// 
-			this.txtOrder.Location = new System.Drawing.Point(1489, 15);
+			this.txtOrder.Location = new System.Drawing.Point(1489, 148);
 			this.txtOrder.Name = "txtOrder";
 			this.txtOrder.Size = new System.Drawing.Size(34, 20);
 			this.txtOrder.TabIndex = 3;
@@ -72,7 +72,7 @@
 			// lblOrder
 			// 
 			this.lblOrder.AutoSize = true;
-			this.lblOrder.Location = new System.Drawing.Point(1449, 15);
+			this.lblOrder.Location = new System.Drawing.Point(1449, 148);
 			this.lblOrder.Name = "lblOrder";
 			this.lblOrder.Size = new System.Drawing.Size(34, 13);
 			this.lblOrder.TabIndex = 4;

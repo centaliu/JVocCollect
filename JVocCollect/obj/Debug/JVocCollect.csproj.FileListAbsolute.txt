@@ -15,4 +15,3 @@ D:\Projects\LearnJapanese\JVocCollect\JVocCollect\bin\Debug\JVocCollect.pdb
 D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Debug\JVocCollect.frmMain.resources
 D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Debug\JVocCollect.Properties.Resources.resources
 D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Debug\JVocCollect.csproj.GenerateResource.Cache
-D:\Projects\LearnJapanese\JVocCollect\JVocCollect\obj\Debug\JVocCollect.csprojResolveAssemblyReference.cache
